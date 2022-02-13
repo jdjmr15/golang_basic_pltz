@@ -3,7 +3,8 @@ package main
 // Se deactivo <go env -w GO111MODULE=off>
 import (
 	"fmt"
-	auto "mipaquete"
+
+	auto "golang_basic_pltz/src/mipaquete"
 )
 
 /*
